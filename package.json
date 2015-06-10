@@ -4,7 +4,7 @@
     "description": "A CylonJS program to automatically test an array of 8 resistors",
     "author": "Russell Hueske",
     "bin": {
-        "array-check": "./bin/array-check"
+        "array-check": "./bin/check"
     },
     "main": "check.js",
     "repository": {
